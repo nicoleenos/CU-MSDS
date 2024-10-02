@@ -1,0 +1,165 @@
+country,province,variety,avg_points,avg_price
+Argentina,Mendoza Province,Cabernet Sauvignon,86.29,19.95
+Argentina,Mendoza Province,Chardonnay,84.99,17.93
+Argentina,Mendoza Province,Pinot Noir,85.15,18.71
+Argentina,Mendoza Province,Sauvignon Blanc,84.35,13.95
+Argentina,Mendoza Province,Syrah,85.98,17.93
+Australia,New South Wales,Cabernet Sauvignon,88.33,14.00
+Australia,New South Wales,Chardonnay,86.97,17.70
+Australia,New South Wales,Pinot Noir,85.00,33.00
+Australia,New South Wales,Sauvignon Blanc,86.00,20.00
+Australia,South Australia,Cabernet Sauvignon,89.41,37.76
+Australia,South Australia,Chardonnay,86.79,21.53
+Australia,South Australia,Pinot Noir,86.81,23.46
+Australia,South Australia,Sauvignon Blanc,87.34,17.63
+Australia,South Australia,Syrah,91.50,112.36
+Australia,Tasmania,Chardonnay,92.00,67.50
+Australia,Tasmania,Pinot Noir,88.50,37.56
+Australia,Tasmania,Sauvignon Blanc,87.00,25.00
+Australia,Victoria,Cabernet Sauvignon,88.33,23.78
+Australia,Victoria,Chardonnay,88.63,36.96
+Australia,Victoria,Pinot Noir,87.74,36.46
+Australia,Victoria,Sauvignon Blanc,85.75,16.75
+Australia,Victoria,Syrah,92.50,57.50
+Australia,Western Australia,Cabernet Sauvignon,90.08,40.25
+Australia,Western Australia,Chardonnay,89.52,40.01
+Australia,Western Australia,Pinot Noir,85.78,23.11
+Australia,Western Australia,Sauvignon Blanc,87.20,17.40
+Canada,British Columbia,Cabernet Sauvignon,91.50,38.50
+Canada,British Columbia,Chardonnay,89.13,25.67
+Canada,British Columbia,Pinot Noir,88.55,34.35
+Canada,British Columbia,Sauvignon Blanc,89.25,22.38
+Canada,British Columbia,Syrah,91.14,47.36
+Canada,Ontario,Cabernet Sauvignon,88.00,59.33
+Canada,Ontario,Chardonnay,86.00,25.00
+Canada,Ontario,Pinot Noir,88.33,24.67
+Canada,Ontario,Sauvignon Blanc,85.00,19.00
+France,Alsace,Chardonnay,90.63,23.75
+France,Alsace,Pinot Noir,87.89,27.05
+France,Beaujolais,Chardonnay,85.89,18.34
+France,Bordeaux,Cabernet Sauvignon,86.83,31.17
+France,Bordeaux,Sauvignon Blanc,86.55,17.21
+France,Burgundy,Chardonnay,89.30,56.59
+France,Burgundy,Pinot Noir,90.42,97.16
+France,Burgundy,Sauvignon Blanc,85.33,15.83
+France,Champagne,Chardonnay,91.43,91.05
+France,Champagne,Pinot Noir,89.75,64.29
+France,Languedoc-Roussillon,Cabernet Sauvignon,84.15,9.90
+France,Languedoc-Roussillon,Chardonnay,86.26,16.26
+France,Languedoc-Roussillon,Pinot Noir,84.56,11.68
+France,Languedoc-Roussillon,Sauvignon Blanc,84.75,12.75
+France,Languedoc-Roussillon,Syrah,86.08,12.83
+France,Loire Valley,Cabernet Sauvignon,90.20,48.40
+France,Loire Valley,Chardonnay,85.64,15.29
+France,Loire Valley,Pinot Noir,87.96,29.90
+France,Loire Valley,Sauvignon Blanc,89.03,29.20
+France,Provence,Cabernet Sauvignon,88.00,19.50
+France,Provence,Pinot Noir,86.00,12.00
+France,Provence,Syrah,87.00,18.00
+France,Southwest France,Cabernet Sauvignon,88.00,30.33
+France,Southwest France,Chardonnay,87.06,17.06
+France,Southwest France,Sauvignon Blanc,85.98,17.72
+France,Southwest France,Syrah,89.00,29.00
+Italy,Central Italy,Cabernet Sauvignon,87.43,28.43
+Italy,Central Italy,Chardonnay,87.43,24.29
+Italy,Central Italy,Sauvignon Blanc,85.00,17.67
+Italy,Central Italy,Syrah,86.67,17.33
+Italy,Lombardy,Chardonnay,88.63,41.77
+Italy,Northeastern Italy,Cabernet Sauvignon,87.33,27.83
+Italy,Northeastern Italy,Chardonnay,88.47,30.90
+Italy,Northeastern Italy,Pinot Noir,89.00,31.50
+Italy,Northeastern Italy,Sauvignon Blanc,87.19,24.56
+Italy,Northwestern Italy,Chardonnay,88.00,38.00
+Italy,Piedmont,Chardonnay,87.57,20.36
+Italy,Sicily & Sardinia,Cabernet Sauvignon,88.36,31.82
+Italy,Sicily & Sardinia,Chardonnay,88.08,30.13
+Italy,Sicily & Sardinia,Pinot Noir,85.50,11.00
+Italy,Sicily & Sardinia,Sauvignon Blanc,86.00,20.00
+Italy,Sicily & Sardinia,Syrah,88.11,25.39
+Italy,Southern Italy,Chardonnay,85.56,14.00
+Italy,Southern Italy,Sauvignon Blanc,84.00,15.00
+Italy,Southern Italy,Syrah,86.00,11.00
+Italy,Tuscany,Cabernet Sauvignon,90.00,52.85
+Italy,Tuscany,Chardonnay,89.13,38.81
+Italy,Tuscany,Pinot Noir,86.00,43.00
+Italy,Tuscany,Sauvignon Blanc,86.00,16.50
+Italy,Tuscany,Syrah,89.42,71.18
+Italy,Veneto,Cabernet Sauvignon,87.30,27.30
+Italy,Veneto,Chardonnay,86.64,18.82
+Italy,Veneto,Pinot Noir,86.00,19.00
+Italy,Veneto,Syrah,90.00,35.00
+Spain,Catalonia,Cabernet Sauvignon,87.50,39.67
+Spain,Catalonia,Chardonnay,86.44,31.00
+Spain,Catalonia,Pinot Noir,87.00,19.82
+Spain,Catalonia,Sauvignon Blanc,88.00,25.50
+Spain,Catalonia,Syrah,89.25,43.25
+Spain,Central Spain,Cabernet Sauvignon,87.31,28.46
+Spain,Central Spain,Chardonnay,82.33,9.33
+Spain,Central Spain,Sauvignon Blanc,82.55,10.73
+Spain,Central Spain,Syrah,87.36,23.55
+Spain,Levante,Cabernet Sauvignon,85.75,8.75
+Spain,Levante,Chardonnay,84.00,17.00
+Spain,Levante,Sauvignon Blanc,84.67,11.67
+Spain,Levante,Syrah,88.75,23.25
+Spain,Northern Spain,Cabernet Sauvignon,87.50,36.00
+Spain,Northern Spain,Chardonnay,84.38,15.20
+Spain,Northern Spain,Sauvignon Blanc,85.06,14.71
+Spain,Northern Spain,Syrah,88.91,32.45
+US,Arizona,Chardonnay,84.67,30.00
+US,Arizona,Syrah,86.00,39.33
+US,California,Cabernet Sauvignon,89.07,59.17
+US,California,Chardonnay,88.59,32.16
+US,California,Pinot Noir,89.73,45.09
+US,California,Sauvignon Blanc,87.45,20.96
+US,California,Syrah,89.22,37.83
+US,Colorado,Cabernet Sauvignon,86.75,29.25
+US,Colorado,Chardonnay,86.25,30.50
+US,Colorado,Sauvignon Blanc,85.00,25.00
+US,Colorado,Syrah,85.86,29.71
+US,Connecticut,Chardonnay,84.00,15.00
+US,Idaho,Cabernet Sauvignon,85.50,13.00
+US,Idaho,Chardonnay,84.50,12.50
+US,Idaho,Syrah,86.00,10.00
+US,Massachusetts,Chardonnay,84.50,20.50
+US,Michigan,Cabernet Sauvignon,87.00,250.00
+US,Michigan,Chardonnay,86.00,29.70
+US,Michigan,Pinot Noir,86.43,37.79
+US,Michigan,Syrah,85.67,56.67
+US,Missouri,Cabernet Sauvignon,86.00,40.00
+US,Nevada,Syrah,83.00,32.00
+US,New Jersey,Chardonnay,83.00,30.50
+US,New Jersey,Pinot Noir,87.00,36.00
+US,New Jersey,Syrah,87.00,35.00
+US,New Mexico,Cabernet Sauvignon,83.50,21.25
+US,New Mexico,Pinot Noir,85.00,18.00
+US,New Mexico,Syrah,84.50,24.50
+US,New York,Cabernet Sauvignon,86.67,28.22
+US,New York,Chardonnay,86.34,19.26
+US,New York,Pinot Noir,87.44,25.10
+US,New York,Sauvignon Blanc,87.62,21.51
+US,New York,Syrah,87.47,28.11
+US,North Carolina,Chardonnay,84.00,22.50
+US,Ohio,Cabernet Sauvignon,84.00,12.00
+US,Ohio,Chardonnay,85.50,14.00
+US,Oregon,Cabernet Sauvignon,87.18,36.81
+US,Oregon,Chardonnay,89.72,34.94
+US,Oregon,Pinot Noir,89.47,44.62
+US,Oregon,Sauvignon Blanc,88.46,21.76
+US,Oregon,Syrah,88.69,43.10
+US,Pennsylvania,Cabernet Sauvignon,85.50,32.50
+US,Pennsylvania,Chardonnay,86.50,33.50
+US,Pennsylvania,Pinot Noir,85.50,28.50
+US,Pennsylvania,Syrah,85.50,23.50
+US,Texas,Cabernet Sauvignon,85.33,23.33
+US,Texas,Chardonnay,82.00,20.00
+US,Texas,Syrah,83.00,24.00
+US,Virginia,Cabernet Sauvignon,85.31,28.58
+US,Virginia,Chardonnay,85.15,23.11
+US,Virginia,Pinot Noir,87.00,35.00
+US,Virginia,Sauvignon Blanc,86.17,23.11
+US,Virginia,Syrah,84.80,34.10
+US,Washington,Cabernet Sauvignon,89.34,40.96
+US,Washington,Chardonnay,88.21,22.71
+US,Washington,Pinot Noir,87.09,30.59
+US,Washington,Sauvignon Blanc,87.71,16.75
+US,Washington,Syrah,90.06,40.70
